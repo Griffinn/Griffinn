@@ -51,7 +51,13 @@
 - 💬 Ask me about DSA, backend basics, or how I approach breaking down complex problems — I’m deeply passionate about learning, I tend to get absorbed into new topics and keep going until I truly understand them. I’m also very enthusiastic about hackathons, brainstorming bold ideas in short timeframes, and competitive coding — it brings out my sharp, fast-thinking side  
 - 📫 How to reach me: khuprajiv@gmail.com | https://www.linkedin.com/in/khushi-prasad-6b676b254/  
 - 😄 Pronouns: she/her  
-- ⚡ Fun fact: I genuinely enjoy difficult problems — the more confusing it looks at first, the more interesting it becomes. Also aiming to dive deep into AI/ML and GenAI once I hit a few important milestones 🚀  
+- ⚡ Fun fact: I genuinely enjoy difficult problems — the more confusing it looks at first, the more interesting it becomes. Also aiming to dive deep into AI/ML and GenAI once I hit a few important milestones 🚀
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Griffinn/Griffinn/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
 ✨ “Driven by curiosity, sustained by learning, aiming for impact.” ✨
