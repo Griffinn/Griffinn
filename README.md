@@ -46,7 +46,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
+  
   ![Snake animation](https://github.com/Griffinn/Griffinn/blob/output/github-contribution-grid-snake.svg)
+  
 </p>
 
 
