@@ -1,25 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:00C9FF&height=200&section=header&text=Khushi%20Prasad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=800&color=7B61FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Khushi+%F0%9F%91%8B;Curious+Mind+%7C+DSA+Enthusiast;Building+Toward+AI%2FML+%26+Impactful+Systems;I+love+solving+problems+that+feel+like+puzzles" />
-</p>
-
 ## Hi 👋, I'm Khushi
 ### Curious mind | DSA enthusiast | Building toward AI/ML & impactful systems 🚀
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Griffinn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Griffinn&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Griffinn&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
+#### Tech Stack: 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-D32F2F?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -67,31 +49,6 @@
   <img src="https://raw.githubusercontent.com/Griffinn/Griffinn/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Griffinn/InsightVault-Personal-Finance-Analytics-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=InsightVault-Personal-Finance-Analytics-Platform&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Griffinn/React-Covid-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=React-Covid-Tracker&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Griffinn/Spotify-Clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=Spotify-Clone&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Griffinn/Amazon-From-Scratch-using-React.js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=Amazon-From-Scratch-using-React.js&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
 
 <p align="center">
 ✨ “Driven by curiosity, sustained by learning, aiming for impact.” ✨
