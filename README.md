@@ -1,6 +1,6 @@
-### Hi there👋, 
+### Hi there👋, I'm Khushi
 
-#### Tech Stack: 
+### Tech Stack: 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-D32F2F?style=for-the-badge&logo=openjdk&logoColor=white)
