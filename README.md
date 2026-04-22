@@ -20,33 +20,27 @@
 ![Java](https://img.shields.io/badge/Java-D32F2F?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1976D2?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E64A19?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1565C0?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-00BCD4?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7B1FA2?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/Node.js-2E7D32?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B5E20?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D47A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-283593?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-D84315?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-C2185B?style=for-the-badge&logo=intellijidea&logoColor=white)
-
 ![DSA](https://img.shields.io/badge/DSA-FF5722?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-3F51B5?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-009688?style=for-the-badge)
 ![OS](https://img.shields.io/badge/OS-673AB7?style=for-the-badge)
 ![CN](https://img.shields.io/badge/CN-03A9F4?style=for-the-badge)
-
 ![AI/ML](https://img.shields.io/badge/AI/ML-8E24AA?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/GenAI-3949AB?style=for-the-badge)
 
