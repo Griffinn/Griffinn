@@ -42,6 +42,7 @@
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I genuinely enjoy difficult problems — the more confusing it looks at first, the more interesting it becomes. Also aiming to dive deep into AI/ML and GenAI once I hit a few important milestones 🚀
 
+<!--
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -49,7 +50,7 @@
   ![Snake animation](https://github.com/Griffinn/Griffinn/blob/output/github-contribution-grid-snake.svg)
   
 </p>
-
+-->
 
 <p align="center">
 ✨ “Driven by curiosity, sustained by learning, aiming for impact.” ✨
