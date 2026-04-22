@@ -11,6 +11,7 @@
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I genuinely enjoy difficult problems — the more confusing it looks at first, the more interesting it becomes. Also aiming to dive deep into AI/ML and GenAI once I hit a few important milestones 🚀
 
+<!--
 ### 🛠️ Tech Stack: 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +41,7 @@
 ![CN](https://img.shields.io/badge/CN-03A9F4?style=for-the-badge)
 ![AI/ML](https://img.shields.io/badge/AI/ML-8E24AA?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/GenAI-3949AB?style=for-the-badge)
-
+-->
 
 
 <!--
