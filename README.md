@@ -46,7 +46,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Griffinn/Griffinn/output/github-contribution-grid-snake-dark.svg" />
+  ![Snake animation](https://github.com/Griffinn/Griffinn/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 
