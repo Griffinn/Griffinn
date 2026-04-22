@@ -1,6 +1,17 @@
 ## Hi 👋, I'm Khushi
 ### Curious mind | DSA enthusiast | Building toward AI/ML & impactful systems 🚀
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Griffinn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Griffinn&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Griffinn&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-D32F2F?style=for-the-badge&logo=openjdk&logoColor=white)
