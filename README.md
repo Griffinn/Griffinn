@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=800&color=7B61FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Khushi+%F0%9F%91%8B;Curious+Mind+%7C+DSA+Enthusiast;Building+Toward+AI%2FML+%26+Impactful+Systems;I+love+solving+problems+that+feel+like+puzzles" />
+</p>
+
 ## Hi 👋, I'm Khushi
 ### Curious mind | DSA enthusiast | Building toward AI/ML & impactful systems 🚀
 
