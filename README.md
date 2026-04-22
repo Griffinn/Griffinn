@@ -67,6 +67,32 @@
   <img src="https://raw.githubusercontent.com/Griffinn/Griffinn/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Griffinn/InsightVault-Personal-Finance-Analytics-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=InsightVault-Personal-Finance-Analytics-Platform&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Griffinn/React-Covid-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=React-Covid-Tracker&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Griffinn/Spotify-Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=Spotify-Clone&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Griffinn/Amazon-From-Scratch-using-React.js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Griffinn&repo=Amazon-From-Scratch-using-React.js&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
 <p align="center">
 ✨ “Driven by curiosity, sustained by learning, aiming for impact.” ✨
 </p>
