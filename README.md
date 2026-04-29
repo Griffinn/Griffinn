@@ -51,7 +51,12 @@
   
 </p>
 -->
-
+<!--
 <p align="center">
 ✨ “Driven by curiosity, sustained by learning, aiming for impact.” ✨
 </p>
+
+, I'm Khushi
+
+### 🌸 About Me
+-->
