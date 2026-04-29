@@ -1,6 +1,4 @@
-### Hi there👋, I'm Khushi
-
-### 🌸 About Me
+### Hi there👋
 
 - 🔭 I’m currently working on building structured, real-world projects and strengthening my backend + problem-solving skills  
 - 🌱 I’m currently learning Data Structures & Algorithms deeply (because problems like N-Queens and Knapsack feel like puzzles I *want* to solve)  
